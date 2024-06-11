@@ -59,9 +59,7 @@ On Moodle, in your Lab 01 instructions, you have been provided with a series of 
 
 15. Now that there's enough room, the sidebar should go to the side of the layout. We will let flexbox figure out how to size this element on its own.
 
-### On Your Own
-
-15. Write a final media query for when the viewport reaches its largest size. The layout should **stop growing** or shrinking (i.e. switch to a fixed-width layout) and be **centred**. 
+16. Write a final media query for when the viewport reaches its largest size. The layout should **stop growing** or shrinking (i.e. switch to a fixed-width layout) and be **centred**. 
 
 **Hint**: How can you horizontally centre a block-level element? Check out this guide: https://css-tricks.com/centering-css-complete-guide/
 
