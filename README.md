@@ -23,11 +23,7 @@ On Moodle, in your Lab 01 instructions, you have been provided with a series of 
 >> Sub-Heading
 >>  Archive
 
-2.	For the images, use placeholder images with a 500px by 400px dimension. You can do this by using the following code in your HTML:
-
-`` <img src="https://source.unsplash.com/random/500x400" alt="A random photograph with 500px by 400px dimensions."> ``
-
-**Note**: This image tag will fetch a random image from the unsplash server. This means that every time you refresh your page, the image will change.
+2.	For the images, use placeholder images with a 500px by 400px dimension. 
 
 3.	Give the first column and the final column two paragraphs of filler text (either generic lorem ipsum or a generator of your choice). Use only one paragraph of filler text for the other two columns.
 
